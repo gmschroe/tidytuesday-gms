@@ -9,13 +9,13 @@ I visualised when UFO sightings occur during the day and year. In the US, sighti
 
 <img src = 'plots/2023_wk25_ufos_US.png' width = 850>
 
-<img src = 'plots/2023_wk25_ufos_US_by_part.png' width = 850>
+<img src = 'plots/2023_wk25_ufos_US_by_part.png?' width = 850>
 
 
 ### Week 22: Verified Oldest People
 
 I visualised the years the oldest men and women lived and highlighted the people who set record ages.
 
-<img src='plots/2023_wk22_female_age.png' width = 750 alt = "Visualisation of the lives of the 100 verified oldest women who have ever lived. The dates each woman lived are plotted versus their ages on each date, creating 100 diagonal lines representing the 100 lives. The lines of the two women who set record ages (at the time of their death) are highlighted in blue. The oldest women who ever lived is Jeanne Calment, who died in 1997 at 122 years old.">
+<img src='plots/2023_wk22_female_age.png?' width = 750 alt = "Visualisation of the lives of the 100 verified oldest women who have ever lived. The dates each woman lived are plotted versus their ages on each date, creating 100 diagonal lines representing the 100 lives. The lines of the two women who set record ages (at the time of their death) are highlighted in blue. The oldest women who ever lived is Jeanne Calment, who died in 1997 at 122 years old.">
 
-<img src='plots/2023_wk22_male_age.png' width = 750 alt = "Visualisation of the lives of the 100 verified oldest men who have ever lived. The dates each man lived are plotted versus their ages on each date, creating 100 diagonal lines representing the 100 lives. The lines of the six men who set record ages (at the time of their death) are highlighted in purple. The oldest man who ever lived is Jiroemon Kimura, who died in 2013 at 116 years old.">
+<img src='plots/2023_wk22_male_age.png?' width = 750 alt = "Visualisation of the lives of the 100 verified oldest men who have ever lived. The dates each man lived are plotted versus their ages on each date, creating 100 diagonal lines representing the 100 lives. The lines of the six men who set record ages (at the time of their death) are highlighted in purple. The oldest man who ever lived is Jiroemon Kimura, who died in 2013 at 116 years old.">
