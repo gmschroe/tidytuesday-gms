@@ -95,7 +95,7 @@ ufo_sightings_tz <- ufo_sightings_tz |>
 
 #############################################################################
 # Final vis
-# plot sightings binned by day and time -----
+# plot sightings binned by day and time
 
 # plot functions
 source('2023_wk25_ufos_lib.R')
